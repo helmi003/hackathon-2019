@@ -1,0 +1,31 @@
+h6{color:A74741;
+	background-color: white;
+  margin: auto;
+  width: 60%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+
+font-size: 110%;}
+body {
+  background-image: url('d.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+
+
+ 
+  background-color: #cccccc;
+}
+
+h1 { color: #7c795d; font-family: 'Trocchi', serif; font-size: 45px; font-weight: normal; line-height: 48px; margin: 0; }
+
+img { margin-left: auto;
+	margin-right: auto;
+	display: block;
+  border-radius: 50%;
+   
+}
+
+
+
+

@@ -1,0 +1,48 @@
+.size{
+	
+	width:900px;
+	height:500px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+
+}
+
+
+body{ 
+  background: url(2.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+
+.tittre{
+	text-align:center;	
+	font-size:40px;
+	color:red;
+	text-decoration:underline;
+	font-family:arial, sans-serif;
+text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;	
+}
+
+#tit{ margin-top:150px ; }
+
+iframe {
+border-top: #c00 1px solid;
+border-right: #c00 2px solid;
+border-left: #c00 2px solid;
+border-bottom: #c00 4px solid;
+ border-radius: 15px;
+
+}
+
+
+
+.st{margin-left:215px;
+/* font-size:23px; */
+	/* font-style:oblique; */
+	font: italic bold 23px/30px Georgia, serif;
+}

@@ -1,0 +1,43 @@
+h1 {
+  text-shadow: 2px 2px #1a75ff;
+  text-decoration:underline;
+  color:#FF0000;
+  padding: 10px;
+}
+.im1
+{
+  border-radius: 4px;
+  padding: 5px;
+  width: 500px;
+  border:5px inset #ff3333;
+  box-shadow: 10px 5px 5px #ffb3e6;
+}
+body
+{
+  background-image: url("230182.jpg");
+  background-repeat: no-repeat,repeat-x;
+  background-size: 100% 100%;
+  background-attachment:fixed;
+  /* overflow:hidden; */
+}
+h3
+{
+	color:#ff471a;
+}
+h4
+{
+	 color:#0099e6;
+}
+h2
+{
+	color:#1f7a1f;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.hh
+{
+	color:#cc00cc;
+}
